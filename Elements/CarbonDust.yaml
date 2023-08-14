@@ -1,0 +1,22 @@
+﻿elements:
+  - elementId: CarbonDust
+    specificHeatCapacity: 710
+    thermalConductivity: 1250
+    solidSurfaceAreaMultiplier: 0
+    liquidSurfaceAreaMultiplier: 5
+    gasSurfaceAreaMultiplier: 5
+    strength: 0
+    highTemp: 4327
+    defaultTemperature: 30
+    defaultMass: 500
+    maxMass: 1600
+    hardness: 2
+    molarMass: 8
+    lightAbsorptionFactor: 1
+    highTempTransitionTarget: LiquidCarbon
+    materialCategory: CarbonDust
+    buildMenuSort: 5
+    isDisabled: false
+    state: Solid
+    localizationID: STRINGS.ELEMENTS.CARBON.NAME
+    dlcId: ""
